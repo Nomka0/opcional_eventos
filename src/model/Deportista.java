@@ -51,7 +51,6 @@ public class Deportista {
 		this.deporte = deporte;
 	}
 	
-	
 }
 
 
